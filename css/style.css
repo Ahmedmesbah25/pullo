@@ -437,6 +437,7 @@
   max-width: 100%;
 }
 .form .container .contact form textarea {
+  height: 200px;
   resize: none;
   margin-bottom: 10px !important;
 }
